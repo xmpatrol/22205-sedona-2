@@ -2,6 +2,7 @@
 
 * Студент: [P@TROL](https://up.htmlacademy.ru/htmlcss-individual/2/user/22205).
 * Наставник: [Виктория Никитина](https://htmlacademy.ru/profile/id1217273).
+* Сайт: [Седона](https://xmpatrol.github.io/22205-sedona-2/).
 
 ---
 
